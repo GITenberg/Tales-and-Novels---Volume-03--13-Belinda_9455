@@ -1,0 +1,45 @@
+_repo: Tales-and-Novels---Volume-03--13-Belinda_9455
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Edgeworth, Maria
+    alias: Edgeworth, Eliza
+    birthdate: 1767
+    deathdate: 1849
+    gutenberg_agent_id: '630'
+    url: http://www.gutenberg.org/2009/agents/630
+    wikipedia: http://en.wikipedia.org/wiki/Maria_Edgeworth
+description: "Belinda is an 1801 novel by the Irish writer Maria Edgeworth. It was\
+  \ first published in three volumes by Joseph Johnson of London, and was reprinted\
+  \ by Pandora Press in 1986. The novel was Edgeworth's second published, and was\
+  \ considered controversial in its day for its depiction of an interracial marriage.\n\
+  In its first (1801) and second (1802) editions, Juba, an African servant on a plantation\
+  \ in Jamaica, marries an English farm-girl named Lucy. But the third edition of\
+  \ the book, published in 1810, omits the character Juba, and instead has Lucy betrothed\
+  \ to one James Jackson. Also, in the first two editions, Belinda almost marries\
+  \ Mr. Vincent, a rich West Indian Creole; in the 1810 edition, Belinda only esteems\
+  \ him and never agrees to marry him. It has been argued that this change came at\
+  \ the insistence of Edgeworth's father, rather than the author herself, because\
+  \ he edited several of her works.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2005-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9455'
+  wikidata: Q2894491
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Courtship -- Fiction'
+- !lcsh 'London (England) -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: Belinda.
+title: "Tales and Novels — Volume 03\r\nBelinda"
+url: http://www.gutenberg.org/ebooks/9455
+wikipedia:
+- https://simple.wikipedia.org/wiki/Belinda_(book)
+- https://fr.wikipedia.org/wiki/Belinda_(roman)
+- https://en.wikipedia.org/wiki/Belinda_(Edgeworth_novel)
