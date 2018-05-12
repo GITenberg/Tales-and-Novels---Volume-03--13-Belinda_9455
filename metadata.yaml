@@ -1,5 +1,8 @@
 _repo: Tales-and-Novels---Volume-03--13-Belinda_9455
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Edgeworth, Maria
@@ -21,6 +24,8 @@ description: "Belinda is an 1801 novel by the Irish writer Maria Edgeworth. It w
   \ him and never agrees to marry him. It has been argued that this change came at\
   \ the insistence of Edgeworth's father, rather than the author herself, because\
   \ he edited several of her works.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9455#Tales-and-Novels---Volume-03--13-Belinda
 gutenberg_issued: '2005-12-01'
 gutenberg_type: Text
 identifiers:
