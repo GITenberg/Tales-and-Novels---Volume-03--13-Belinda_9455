@@ -14,8 +14,7 @@ Author: Maria Edgeworth
 
 Release Date: December, 2005 [EBook #9455]
 [This file was first posted on October 2, 2003]
-Last Updated: June 8, 2013
-Last Updated: August 12, 2013
+Last Updated: December 28, 2015
 
 Language: English
 
@@ -1753,7 +1752,7 @@ Harriot Freke jumped out of the coach, a cock crowed in the area of her
 sister's house: 'There!' cried Harriot, 'do you hear the cock crow,
 Lady Delacour? Now it's to be hoped your fear of goblins is over, else
 I would not be so cruel as to leave the pretty dear all alone.' 'All
-alone!' answered I: 'your friend the colonel Is much obliged to you
+alone!' answered I: 'your friend the colonel is much obliged to you
 for making nobody of him.' 'My friend the colonel,' whispered Harriot,
 leaning with her bold masculine arms on the coach door--'my friend
 the colonel is much obliged to me, I'm sure, for remembering what the
@@ -1839,7 +1838,7 @@ CHAPTER IV.
 LADY DELACOUR'S HISTORY CONTINUED.
 
 
-"I Left off with the true skill of a good story-teller, at the most
+"I left off with the true skill of a good story-teller, at the most
 interesting part--a duel; and yet duels are so common now that they are
 really vulgar incidents.
 
@@ -1903,7 +1902,7 @@ election, enabled us to sustain the expense of my apotheosis. The day of
 election came; Harriot Freke and I made our appearance on the hustings,
 dressed in splendid party uniforms; and before us our knights and
 squires held two enormous panniers full of ribands and cockades, which
-we distributed with a grace that won all hearts, if not all votes Mrs.
+we distributed with a grace that won all hearts, if not all votes. Mrs.
 Luttridge thought the panniers would carry the election; and forthwith
 she sent off an express for a pair of panniers twice as large as ours. I
 took out my pencil, and drew a caricature of _the ass and her panniers_;
@@ -1948,7 +1947,7 @@ qualified to take _proper_ notice of Lady D----'s conduct. Lady Delacour
 begs leave to assure Mrs. Luttridge, that though she has the misfortune
 to be a woman, she is willing to account for her conduct in any manner
 Mrs. L---- may think proper, and at any hour and place she may appoint.
-Lady D---- leaves the choice of the weapons to Mrs. L----. Mrs. II.
+Lady D---- leaves the choice of the weapons to Mrs. L----. Mrs. H.
 Freke, who has the honour of presenting this note, is Lady Delacour's
 _friend_ upon this occasion.'
 
@@ -2014,7 +2013,7 @@ Miss Honour O'Grady; you have a few words to suggest.' 'Yes, I would
 willingly observe, as it is my duty to my _principal_,' said Honour,
 'that one who is compelled to fire her pistol with her left hand, though
 ever so good a shot _naturally_, is by no means on a footing with one
-who has the advantage of her light hand.' Harriot rubbed my pistol with
+who has the advantage of her right hand.' Harriot rubbed my pistol with
 the sleeve of her coat, and I, recovering my wit with my hopes of being
 witty with impunity, answered, 'Unquestionably, left-handed wisdom and
 left-handed courage are neither of them the very best of their kinds;
@@ -2710,7 +2709,7 @@ to Lady Delacour, drawing her into a recessed window: he in the same
 low voice continued, "Could I obtain a private audience of a few minutes
 when your ladyship is at leisure?--I have--" "I am never at leisure,"
 interrupted Lady Delacour; "but if you have any thing particular to say
-to me-as I guess you have, by my skill in human nature--come here to my
+to me--as I guess you have, by my skill in human nature--come here to my
 concert to-night, before the rest of the world. Wait patiently in the
 music-room, and perhaps I may grant you a private audience, as you had
 the grace not to call it a _tete-a-tete_. In the mean time, my dear
@@ -2895,7 +2894,7 @@ her ladyship's embarrassment increased. At last, resuming all her former
 appearance of friendship and confidence, she suddenly exclaimed one
 night after she had flattered Belinda into high spirits--
 
-"Do you know, my dear, that I have been so ashamed of ashamed of myself
+"Do you know, my dear, that I have been so ashamed of myself
 for this week past, that I have hardly dared to look you in the face.
 I am sensible I was downright rude and cross to you one day, and ever
 since I have been penitent; and, as all penitents are, very stupid and
@@ -3101,7 +3100,7 @@ surprised at any instance of caprice from a woman." The conversation
 then took another turn, and whilst they were talking of indifferent
 subjects, in came Lord Delacour's man, Champfort, with Mrs. Stanhope's
 draft for two hundred guineas, which the coachmaker's man had just
-brought hack because Miss Portman had forgotten to endorse it. Belinda's
+brought back because Miss Portman had forgotten to endorse it. Belinda's
 astonishment was almost as great at this instant as Lady Delacour's
 confusion.
 
@@ -3368,7 +3367,7 @@ read or written, damn me! But what are we doing here?"
 "Hervey's in good hands," said Rochfort, "and this here's a cursed
 stupid lounge for us--besides, it's getting towards dinner-time; so
 my voice is, let's be off, and we can leave St. George (who has such a
-famous mind to be in the doctor's hook) to bring Clary after us, when
+famous mind to be in the doctor's book) to bring Clary after us, when
 he's ready for dinner and good company again, you know--ha! ha! ha!"
 
 Away the faithful friends went to the important business of their day.
@@ -4091,7 +4090,7 @@ the good sense and good taste to avoid a display of her abilities and
 accomplishments. A sensible man, who has any knowledge of the world and
 talents for conversation, can easily draw out the knowledge of those
 with whom he converses. Dr. X---- possessed this power in a superior
-degree?
+degree.
 
 "Well," cried Clarence, when their visit was over, "what is your opinion
 of Lady Delacour?"
@@ -4298,7 +4297,7 @@ must forgive me."
 think you a real friend; you shall have the best thanks not in words,
 but in actions: you have roused my ambition, and I will pursue noble
 ends by noble means. A few years have been sacrificed; but the lessons
-that they have taught me remain. I cannot, presumptuous as lam,
+that they have taught me remain. I cannot, presumptuous as I am,
 flatter myself that my exertions can be of any material utility to my
 fellow-creatures, but what I can do I will, my excellent friend! If I be
 hereafter either successful in public, or happy in private life, it is
@@ -4360,7 +4359,7 @@ with her, and with his own penetration in having discovered her real
 character, notwithstanding her being Mrs. Stanhope's niece.
 
 "I never argue, for my part," cried Mr. Rochfort: "'pon honour, 'tis a
-deal too much trouble. A lady, a handsome lay, I mean, is always in the
+deal too much trouble. A lady, a handsome lady, I mean, is always in the
 right with me."
 
 "But as to you, Hervey," said Sir Philip, "damme, do you know, my boy,
@@ -4845,7 +4844,7 @@ for it to my conscience, to have kept the matter secret so long; for to
 be sure a physician, if had in time, might have saved my lady--but now
 nothing can save her!" And here Marriott burst into tears.
 
-"Why don t you give me the laudanum?" cried Lady Delacour, in a loud
+"Why don't you give me the laudanum?" cried Lady Delacour, in a loud
 peremptory voice; "Give it to me instantly."--"No," said Miss Portman,
 firmly.--"Hear me, Lady Delacour--you must allow me to judge, for you
 know that you are not in a condition to judge for yourself, or rather
@@ -5111,9 +5110,9 @@ out in the middle of the night.
 Lady Delacour, who heard Dr. X---- giving this account to Belinda, drew
 back her curtain, and said, "Go this instant, doctor--I am out of all
 immediate danger, you say; but if I were not--I must die in the course
-of a few months, you know-and what is my life, compared with the chance
+of a few months, you know--and what is my life, compared with the chance
 of saving your excellent friend! He is of some use in the world--I am of
-none-go this instant, doctor."
+none--go this instant, doctor."
 
 "What a pity," said Dr. X----, as he left the room, "that a woman who
 is capable of so much magnanimity should have wasted her life on petty
@@ -5457,7 +5456,7 @@ These observations were accompanied with the most significant looks.
 Belinda heard and saw all this in painful silence, but Lady Delacour
 often used her address to draw some farther explanation from Sir Philip:
 his regular answer was, "No, no, your ladyship must excuse me there; I
-can't peach, damme-hey, Rochfort?"
+can't peach, damme--hey, Rochfort?"
 
 He was in hopes, from the reserve with which Miss Portman began to treat
 Clarence, that he should, without making any distinct charge, succeed
@@ -5601,12 +5600,12 @@ we are not called upon to bristle up our morality, and the most moral
 ladies in the world do not expect men to be as moral as themselves:
 so we may suit the measure of our external indignation to our real
 feelings. Sir Philip cannot stir in the business, for he knows Clarence
-would call him out if his secret viz to Virginia were to come to light.
+would call him out if his secret visit to Virginia were to come to light.
 I advise you _d'aller votre train_ with Clarence, without seeming to
 suspect him in the least; there is nothing like innocence in these
 cases, my dear: but I know by the Spanish haughtiness of your air
 at this instant, that you would sooner die the death of the
-sentimental-than follow my advice."
+sentimental--than follow my advice."
 
 Belinda, without any haughtiness, but with firm gentleness, replied,
 that she had no designs whatever upon Mr. Hervey, and that therefore
@@ -7104,7 +7103,7 @@ Helena, with much good humour, said that she would rather give up
 seeing the sight than be troublesome to her mother. When they came to
 Maillardet's, however, Lady Delacour saw Mrs. ---- getting out of her
 carriage, and to her she consigned Helena and Miss Portman, saying that
-she would take a turn or two in the part, and call for them in half
+she would take a turn or two in the park, and call for them in half
 an hour. When the half hour was over, and her ladyship returned, she
 carelessly asked, as they were going home, whether they had been pleased
 with their visit to the bird and the conjuror. "Oh, yes, mamma!" said
@@ -7818,7 +7817,7 @@ give my approbation, &c.
 "SELINA STANHOPE."
 
 "Mrs. Stanhope seems to have written you a volume instead of a letter,
-Bliss Portman," cried Lady Delacour, as Belinda turned over the sheets
+Miss Portman," cried Lady Delacour, as Belinda turned over the sheets
 of her aunt's long epistle. She did not attempt to read it regularly
 through: some passages here and there were sufficient to astonish and
 shock her extremely. "No bad news, I hope?" said Lady Delacour, again
@@ -8658,7 +8657,7 @@ come home from their sober walk, and find you gone. There's nothing I
 like so much as to make good people stare--I hope you're of my way o'
 thinking---you don't look as if you were, though; but I never mind
 young ladies' looks--always give the lie to their thoughts. Now we talk
-o'looks--never saw you look so well in my life--as handsome as an angel!
+o' looks--never saw you look so well in my life--as handsome as an angel!
 And so much the better for me. Do you know, I've a bet of twenty guineas
 on your head--on your face, I mean. There's a young bride at Harrowgate,
 Lady H----, they're all mad about her; the men swear she's the
@@ -10632,7 +10631,7 @@ with you? I should make no scruple of frightening him within an inch of
 his life, for his good. Sir Philip Baddely was not the man to frighten
 him; but this Mr. Vincent, by all accounts, is just the thing."
 
-"And do you imagine that I could use Mr. Vincent so ill?-And can you
+"And do you imagine that I could use Mr. Vincent so ill?--And can you
 think me capable of such double dealing?"
 
 "Oh! in love and war, you know, all stratagems are allowable. But
@@ -11696,7 +11695,7 @@ fit that she should be as independent in her circumstances as she is in
 her mind."
 
 Lord Delacour with much emotion looked over this paper, and assured her
-ladyship that she should be obeyed, if--He could say no more.
+ladyship that she should be obeyed, if--he could say no more.
 
 "Farewell, then, my lord!" said she: "keep up your spirits, for I intend
 to live many years yet to try them."
@@ -11871,7 +11870,7 @@ of my existence to no purpose. If I survive this night, manage me as
 you please! But I am the best judge of my own feelings--I shall die
 to-night."
 
-Dr. X---- looked at her with a mixture of astonishment and Compassion.
+Dr. X---- looked at her with a mixture of astonishment and compassion.
 Her pulse was high, she was extremely feverish, and he thought that the
 best thing which he could do was to stay with her till the next day, and
 to endeavour to divert her mind from this fancy, which he considered as
@@ -11943,7 +11942,7 @@ had suffered herself to be falsely alarmed by a foolish imagination, and
 she lay down upon her bed, resolving to compose herself to rest. She was
 just sinking to sleep, when she thought she heard the faint sound of a
 bell. She was not sure whether she was dreaming or awake. She started up
-and listened. All was silent. But in a few-minutes Lady Delacour's bell
+and listened. All was silent. But in a few minutes Lady Delacour's bell
 rang violently. Belinda flew to her room. The surgeon was already there;
 he had been sitting up in the next room to write letters, and he
 had heard the first sound of the bell. Lady Delacour was senseless,
@@ -14364,7 +14363,7 @@ There was nothing that Rachel was anxious to carry away with her but
 a little bullfinch, of which she was very fond. One, and but one,
 circumstance about Rachel stopped the current of Clarence Hervey's
 imagination, and this, consequently, was excessively disagreeable to
-him--her name: the name of Rachel he could hot endure, and he thought it
+him--her name: the name of Rachel he could not endure, and he thought it
 so unsuited to her, that he could scarcely believe it belonged to her.
 He consequently resolved to change it as soon as possible. The first
 time that he beheld her, he was struck with the idea that she resembled
@@ -18223,7 +18222,7 @@ Ormond told me--"
 
 "Do not speak of her at present, or perhaps I may lose my temper,"
 interrupted Clarence in an altered voice: "only tell me--I conjure you,
-tell me--in one word, who is this man I and where is he to be found?"
+tell me--in one word, who is this man and where is he to be found?"
 
 "I do not know. I do not understand you," said Virginia.
 
